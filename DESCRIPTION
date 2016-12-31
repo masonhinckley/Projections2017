@@ -1,12 +1,9 @@
 Package: MBACprojections
 Type: Package
-Title: What the Package Does (Title Case)
+Title: 2017 Projections
 Version: 0.1
 Date: 2016-08-07
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Mason Hinckley
 LazyData: TRUE
 Imports:
   dplyr,
