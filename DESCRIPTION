@@ -7,4 +7,5 @@ Author: Mason Hinckley
 LazyData: TRUE
 Imports:
   dplyr,
-  XML
+  XML,
+  nnet
